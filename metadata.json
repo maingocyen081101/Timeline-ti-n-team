@@ -1,0 +1,5 @@
+{
+  "name": "BA Project Hub & Analyzer",
+  "description": "A sophisticated dashboard for Business Analysts to track software development progress, manage task stages with 1-10 ratings, and leverage Gemini AI for bottleneck analysis and reporting.",
+  "requestFramePermissions": []
+}
